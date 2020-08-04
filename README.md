@@ -38,4 +38,4 @@ export USER_PASSWD=''
 xterm
 ```
 
-Then build and run your docker image. That's it!
+Then build and run your docker image. That's it!!
